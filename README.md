@@ -1,4 +1,4 @@
 # Georgian Phone Numbers
 მობილური ნომრები - გენერაცია [ Generation ]
 Generation Georgian Phone Numbers
-მობილური ნომრები გენერაცია
+Python | Generate | Splite
